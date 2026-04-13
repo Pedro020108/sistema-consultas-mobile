@@ -26,7 +26,7 @@ export const styles = StyleSheet.create({
     backgroundColor: "#F44336",
   },
   statusTexto: {
-    color: "#fff",
+    color: "#333",
     fontWeight: "bold",
     fontSize: 12,
   },
@@ -39,7 +39,7 @@ export const styles = StyleSheet.create({
   label: {
     fontSize: 16,
     fontWeight: "bold",
-    color: "#79059C",
+    color: "#1398cc",
     marginBottom: 8,
   },
   valor: {
@@ -49,7 +49,7 @@ export const styles = StyleSheet.create({
   },
   info: {
     fontSize: 14,
-    color: "#666",
+    color: "#333",
     marginBottom: 2,
   },
   observacoes: {
